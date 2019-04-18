@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1009189475806",
+    "firebase_url": "https://contactslist-3624e.firebaseio.com",
+    "project_id": "contactslist-3624e",
+    "storage_bucket": "contactslist-3624e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009189475806:android:b011d12a1165c605",
+        "android_client_info": {
+          "package_name": "zadanie.contactslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009189475806-807jq6h6g6s6c305r7f83e010obca1rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGz7RHgqQmbLuLqM38p49rQOF4DV47c-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
